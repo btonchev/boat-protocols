@@ -5,7 +5,7 @@ Deployment sequence:
 1. Secure hitch in place
 1. Mount plugs
 1. Open gasoline breather 
-1. Put the side wind shields 
+1. Put the side windshields 
 1. Load diving equipment on the boat
 1. ⁠Check we have water, sunscreen, etc.
 1. Disconnect photovoltaic land panel
