@@ -1,10 +1,15 @@
 # To Water
 
-1. Hitch in place
-1. Plugs are mounted
-1. ⁠Motor is trimmed up
-1. ⁠Photovoltaic panels disconnected before to move
-1. Gasoline breather open
-1. ⁠Diving equipment on the boat
+Deployment sequence:
+
+1. Secure hitch in place
+1. Mount plugs
+1. Open gasoline breather 
+1. Load diving equipment on the boat
 1. ⁠Check we have water, sunscreen, etc.
-1. Bob Marley at the speaker...😅🤟🏻🥳
+1. Disconnect photovoltaic land panel
+1. Connect photovoltaic boat panel
+1. Turn on batteries fuses
+1. Turn on batteries fuses 
+1. Trim up the m⁠otor
+1. Put Bob Marley at the speaker...😅🤟🏻🥳
