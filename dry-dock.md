@@ -16,3 +16,7 @@
 1. Check all system up-to-date and status green 
 1. Trim up the m⁠otor
 1. Put Bob Marley at the speaker...😅🤟🏻🥳
+
+## Teardown sequence
+
+1. ...

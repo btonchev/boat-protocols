@@ -6,6 +6,7 @@
 1. Open gasoline breather
 1. Turn on batteries fuses
 1. Turn on chart ploter
+1. Turn off geo fence 
 1. Check camera and transponder batteries
 1. Put Bob Marley at the speaker...😅🤟🏻🥳
 
@@ -13,6 +14,7 @@
 
 1. Cover the troling motor
 1. Trim up the m⁠otor
+1. Turn on geo fence 
 1. Turn off chart ploter and cover it
 1. Turn off batteries fuses
 1. Close gasoline breather
