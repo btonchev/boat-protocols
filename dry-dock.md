@@ -13,7 +13,8 @@
 1. Install the camera
 1. Turn on batteries fuses
 1. Turn on chart ploter
-1. Check all system up-to-date and status green 
+1. Check all system up-to-date and status green
+1. Sync chart ploter with Active Captain waypoints
 1. Trim up the m⁠otor
 1. Put Bob Marley at the speaker...😅🤟🏻🥳
 
@@ -25,8 +26,9 @@
 1. Mount plugs
 1. Trim up the m⁠otor
 1. Close gasoline breather
-1. Connect photovoltaic land panel
 1. Disconnect photovoltaic boat panel
+1. Connect photovoltaic land panel
+1. Sync chart ploter with Active Captain waypoints
 1. Turn off batteries fuses
 1. Remove the camera
 1. Unload all equipment of the boat

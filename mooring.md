@@ -14,7 +14,8 @@
 
 1. Cover the troling motor
 1. Trim up the m⁠otor
-1. Turn on geo fence 
+1. Turn on geo fence
+1. Sync chart ploter with Active Captain waypoints
 1. Turn off chart ploter and cover it
 1. Turn off batteries fuses
 1. Close gasoline breather
